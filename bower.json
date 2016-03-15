@@ -1,0 +1,9 @@
+{
+  "name": "es2015-sandbox",
+  "dependencies": {
+    "webcomponentsjs": "~0.7.21"
+  },
+  "devDependencies": {
+    "bootstrap": "~3.3.6"
+  }
+}
